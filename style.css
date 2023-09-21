@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+*{
+    font-family: 'Croissant One', cursive;
+}
+.test{
+
+    background-color: brown;
+    width: 1000px;
+    height: 100px;
+}
+.home{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 100px;
+
+}
+.more{
+    background-color: darkorange;
+    width: 1000px;
+    height: 100px;
+
+
+}
