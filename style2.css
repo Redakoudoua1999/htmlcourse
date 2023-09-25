@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 *{
     font-family: 'Croissant One', cursive;
-}
+ }
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -10,14 +10,11 @@
 ul{
    display: flex;
    gap: 30px;
-
-
 }
 .login{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 .house{
     height: 70%;
@@ -32,9 +29,7 @@ input{
     width: 300px;
     height: 40px;
     border-radius: 10px;
-
 }
-
 button{
     background-color: black;
     height: 40px;
